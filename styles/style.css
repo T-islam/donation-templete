@@ -202,6 +202,9 @@ input[type="number"]:focus {
   justify-content: center;
   margin: 50px auto 130px;
 }
+.get-update p {
+  margin-top: 30px;
+}
 
 #email {
   background-color: #d9d9d9;
